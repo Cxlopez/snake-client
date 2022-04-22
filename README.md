@@ -11,8 +11,9 @@ This project was inspired by the [Snek](https://www.taniarascia.com/snake-game-i
 
 ## Final Product
 
-!["screenshot description"](./2022-04-22 at 2.41.56 PM Small.jpeg)
-!["screenshot description"](./Screen Shot 2022-04-22 at 2.41.08 PM Small.jpeg)
+!["screenshot description"]()
+![Screen Shot 2022-04-22 at 3 02 56 PM](https://user-images.githubusercontent.com/93356900/164778088-f14afec1-6519-4049-a407-e5337440f65a.png)
+
 
 
 ## Getting Started
