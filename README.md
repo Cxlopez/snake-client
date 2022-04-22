@@ -10,8 +10,6 @@ Before you can run this client, you will need to be running the server side whic
 This project was inspired by the [Snek](https://www.taniarascia.com/snake-game-in-javascript/) game created by [Tania Rascia](https://github.com/taniarascia).
 
 ## Final Product
-
-!["screenshot description"]()
 ![Screen Shot 2022-04-22 at 3 02 56 PM](https://user-images.githubusercontent.com/93356900/164778088-f14afec1-6519-4049-a407-e5337440f65a.png)
 
 
