@@ -9,9 +9,6 @@ const connect = function() {
     console.log("you've connected sucessfully");
     conn.write("Name: CSL");
   });
-  conn.on("data", (data) => {
-    console.log(data);
-  });
   
   conn.setEncoding("utf8");
 

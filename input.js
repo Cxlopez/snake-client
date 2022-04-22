@@ -15,25 +15,12 @@ const handleUserInput = function(key) {
     console.log("Game exited");
     process.exit();
   }
-  if (key === 'w') {
-    connection.write('Move: up');
-  }
-  if (key === 'a') {
-    connection.write('Move: left');
-  }
-  if (key === 's') {
-    connection.write('Move: down');
-  }
-  if (key === 'd') {
-    connection.write('Move: right');
-  }
-  if (key === "q") {
-    connection.write("Say: Bobba!");
-  }
-  if (key === "e") {
-    connection.write("Say: Squirrel!");
-  }
-
+  if (key === 'w') connection.write('Move: up');
+  if (key === 'a') connection.write('Move: left');
+  if (key === 's') connection.write('Move: down');
+  if (key === 'd') connection.write('Move: right');
+  if (key === "q") connection.write("Say: Bobba!");
+  if (key === "e") connection.write("Say: Squirrel!");
 
 };
 
