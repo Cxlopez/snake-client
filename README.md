@@ -1,5 +1,5 @@
 # Snake Client Project
-![image](https://user-images.githubusercontent.com/93356900/164781058-3b07b798-1c59-4d84-b8f6-42d02ba697bd.png)
+![](https://opengameart.org/sites/default/files/snake%20attack.gif)
 
 Snake game is a very popular video game. It is a video game concept where the player maneuvers a dot and grows it by ‘eating’ pieces of food. As it moves and eats, it grows and the growing snake becomes an obstacle to smooth maneuvers. The goal is to grow it to become as big as possible without bumping into the side walls, or bumping into itself, upon which it dies.
 
