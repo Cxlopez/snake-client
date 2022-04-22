@@ -1,5 +1,6 @@
 let connection;
 
+// Handles input
 const setupInput = function(conn) {
   connection = conn;
   const stdin = process.stdin;
@@ -9,6 +10,8 @@ const setupInput = function(conn) {
   stdin.on("data", handleUserInput);
   return stdin;
 };
+
+// Function controls: game exit and snake directions
 const handleUserInput = function(key) {
   if (key === '\u0003') {
     console.log("Game exited");
